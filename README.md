@@ -14,8 +14,6 @@ Game developed for an ARMv4 Architecture processor which consists in capturating
 
 ## Authors 
 
-Contributors names and contact info
-
 * **Raúl Daramus** - [RaulDaramus](https://github.com/RaulDaramus)
 
 Also you can see all contributors on [contributors](https://github.com/your/project/contributors)
