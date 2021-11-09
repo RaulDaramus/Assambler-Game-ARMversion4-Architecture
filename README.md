@@ -4,7 +4,7 @@ Game developed for an ARMv4 Architecture processor which consists in capturating
   Project developed through the IDE: Keil uVision ARM for Computer Architecture and Organisation I subject.
 
 
-### Dependencies �
+### Dependencies 
 * Keil uVision
 
 ## Version History 
